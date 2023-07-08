@@ -1,5 +1,3 @@
-Sure! Here's an example README file description for your project:
-
 # CIFAR-10 Image Classification with Convolutional Neural Networks
 
 This project demonstrates image classification using Convolutional Neural Networks (CNNs) on the CIFAR-10 dataset. It trains a CNN model to recognize and classify 10 different object classes in the CIFAR-10 dataset.
