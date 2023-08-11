@@ -46,9 +46,6 @@ The model is compiled with the Adam optimizer, sparse categorical cross-entropy 
 
 After training the model for 10 epochs, the training loss and accuracy are plotted using Matplotlib. The final test accuracy of the model is displayed in the terminal.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 Feel free to modify and adapt the code according to your needs.
 
